@@ -4,3 +4,4 @@ This repository contains all the academic projects I have done during my Bachelo
 
 1. Rock Paper Scissors
 2. Etch-A-Sketch 
+3. Calculator
